@@ -1,19 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap");
 
-/* Remote Olarak Ekledik */
-/* Yeni satır Localden eklendi. */
-/* Remotedan yeni satır eklendi. */
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: Open Sans;
 }
-
-/* Mustafa Ekledi. */
-/* 2. Ekleme */
-/* 3. Ekleme */
 
 main {
   display: grid;
